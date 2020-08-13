@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "titulo": "HTML desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/312172bf-ddba-409b-9aa3-6bf4c758805e.jpg",
+            "price": 10,
+            "profesor": "Alvaro Felipe"
+
+        },
+        {
+            "id": 2,
+            "titulo": "CSS desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
+            "price": 20,
+            "profesor": "Alvaro Felipe"
+
+        },
+        {
+            "id": 3,
+            "titulo": "Java Script desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/87ce607a-520c-48c5-af89-6aac7cb85d6d.jpg",
+            "price": 40,
+            "profesor": "Alvaro Felipe"
+
+        },
+        {
+            "id": 4,
+            "titulo": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/original/4c858734-9c72-45db-84ca-eb9e79cbe8df.png",
+            "price": 23,
+            "profesor": "Alberto Quiroga"
+
+        }
+    ]
+}
